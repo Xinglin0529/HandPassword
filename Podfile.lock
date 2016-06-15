@@ -1,0 +1,33 @@
+PODS:
+  - HMSegmentedControl (1.5.2)
+  - JSONModel (1.2.0)
+  - Masonry (1.0.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDAutoLayout (2.0.0)
+  - YYKit (1.0.6):
+    - YYKit/no-arc (= 1.0.6)
+  - YYKit/no-arc (1.0.6)
+
+DEPENDENCIES:
+  - HMSegmentedControl
+  - JSONModel
+  - Masonry
+  - ReactiveCocoa
+  - SDAutoLayout
+  - YYKit
+
+SPEC CHECKSUMS:
+  HMSegmentedControl: 83b9686022d2176fb6457d2bdb61e5d6393fed7d
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDAutoLayout: ae98d238e4721c1566abec57bcb2fa1fbe62a0df
+  YYKit: a80c77ab7be226ebe539ef1495dfc25d5766d61e
+
+COCOAPODS: 0.39.0

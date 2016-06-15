@@ -1,0 +1,7 @@
+platform:'ios','7.0'
+pod 'Masonry'
+pod 'YYKit'
+pod 'JSONModel'
+pod 'HMSegmentedControl'
+pod 'SDAutoLayout'
+pod 'ReactiveCocoa'
